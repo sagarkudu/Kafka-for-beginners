@@ -1,0 +1,5 @@
+Complete Series for Kafka Basics.
+
+https://sagarkudu.medium.com/what-is-kafka-explain-kafka-in-detail-332c84f4d8db
+
+Thanks
